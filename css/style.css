@@ -106,7 +106,7 @@ body{
 		margin: 0 -15px;
 	}
 	.cards__column {
-		flex:0 1 33,333%;
+		flex:0 1 33.333%;
 		padding: 0 15px; ;
 		}
 	.cards__item {
